@@ -1,0 +1,10 @@
+package com.example.demo;
+
+
+public class HelloController {
+	
+	
+public String welcome() {
+	return "hello world";
+	}
+}
